@@ -1,0 +1,14 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "Pandas",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "os": "0.1.1",
+    "pip": "0.0.1",
+    "speech_recognition_all_browser": "1.0.12",
+    "webbrowser": "1.0.1",
+    "wikipedia": "0.0.3"
+  }
+}
